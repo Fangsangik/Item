@@ -1,0 +1,2 @@
+1. Unknown mappedBy in: delivery.Delivery.order, referenced property unknown: order.Order.delivery
+OneToOne(mappedBy = ?)쪽이 잘못 된 것 같다. -> OneToOne의 경우 한쪽만 mappedBy
