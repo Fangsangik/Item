@@ -16,9 +16,6 @@ public class JpaMain {
         try {
             Member member = new Member();
             member.setId(1L);
-            member.setCity("SEOUL");
-            member.setStreet("00000");
-            member.setZipCode("123123");
             member.setName("Hello");
 
             Book book = new Book();

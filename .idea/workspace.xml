@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5434ff50-5fdf-490d-b369-1075734a1cb9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5434ff50-5fdf-490d-b369-1075734a1cb9" name="Changes" comment="item">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JpaMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/category/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/category/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/delivery/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/delivery/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/order/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/OrderItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JpaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JpaMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/category/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/category/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/delivery/Delivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/delivery/Delivery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/order/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/order/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/order/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/order/OrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/member/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +41,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hwang/IdeaProjects/inflearnReview/jpaBasic/shoppingJPA/src/main/resources&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/hwang/IdeaProjects/inflearnReview/jpaBasic/shoppingJPA",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="type" />
@@ -89,6 +83,21 @@
       <option name="presentableId" value="Default" />
       <updated>1709786632520</updated>
     </task>
+    <task id="LOCAL-00001" summary="item">
+      <created>1709876887809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709876887809</updated>
+    </task>
+    <task id="LOCAL-00002" summary="item">
+      <created>1709876914466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709876914466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="item" />
+    <option name="LAST_COMMIT_MESSAGE" value="item" />
   </component>
 </project>

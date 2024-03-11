@@ -1,5 +1,6 @@
 package member;
 
+import address.Address;
 import entity.BaseEntity;
 import order.Order;
 
@@ -15,10 +16,10 @@ public class Member extends BaseEntity {
     @Column(name = "MEMBER_ID")
     private Long id;
 
+    @Embedded
+    private Address address;
+
     private String name;
-    private String city;
-    private String zipCode;
-    private String street;
 
     @OneToMany(mappedBy = "member")
     List<Order> orderList = new ArrayList<>();
@@ -39,27 +40,4 @@ public class Member extends BaseEntity {
         this.name = name;
     }
 
-    public String getCity() {
-        return city;
-    }
-
-    public void setCity(String city) {
-        this.city = city;
-    }
-
-    public String getZipCode() {
-        return zipCode;
-    }
-
-    public void setZipCode(String zipCode) {
-        this.zipCode = zipCode;
-    }
-
-    public String getStreet() {
-        return street;
-    }
-
-    public void setStreet(String street) {
-        this.street = street;
-    }
 }
