@@ -1,5 +1,6 @@
-import item.Book;
-import member.Member;
+import domain.Book;
+import domain.Order;
+import domain.OrderItem;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -14,17 +15,11 @@ public class JpaMain {
         tx.begin();
 
         try {
-            Member member = new Member();
-            member.setId(1L);
-            member.setName("Hello");
-
             Book book = new Book();
             book.setName("JPA");
-            book.setAuthor("Kim");
+            book.setAuthor("AAA");
 
             em.persist(book);
-            em.persist(member);
-
             tx.commit();
         } catch (Exception e){
             tx.rollback();
