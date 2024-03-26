@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5434ff50-5fdf-490d-b369-1075734a1cb9" name="Changes" comment="item">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JpaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/address/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/category/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/delivery/Delivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/BaseEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/item/Album.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/item/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/item/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/item/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/member/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/order/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/order/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/type/DeliveryStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/type/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JpaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JpaMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/category/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/delivery/Delivery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/BaseEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/item/Album.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/item/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/item/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/item/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/member/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/order/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/order/OrderItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/type/DeliveryStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/type/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710737775313</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="item">
+      <created>1711345445829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711345445829</updated>
+    </task>
+    <task id="LOCAL-00007" summary="item">
+      <created>1711345496020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711345496020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
